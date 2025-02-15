@@ -1,7 +1,7 @@
 # noticker
 
 <!DOCTYPE  html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Coming Soon Website Coming Soon Page in Black White Dark Futuristic Style</title><meta name="author" content="Zack"/><meta name="keywords" content="DAGfDevS0cI,BAF_oO5jgiQ,0"/><style type="text/css"> * {margin:0; padding:0; text-indent:0; }
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><meta name="author" content="Zack"/><meta name="keywords" content="DAGfDevS0cI,BAF_oO5jgiQ,0"/><style type="text/css"> * {margin:0; padding:0; text-indent:0; }
  body { background-color: #000; }
  .s1 { color: #ECF0F1; font-family:Verdana, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 56pt; }
  .s2 { color: #ECF0F1; font-family:Verdana, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 22pt; }
